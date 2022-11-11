@@ -1,0 +1,23 @@
+.esc{
+  text-decoration: none;
+}
+.button_esc {
+  font-size: 15pt;
+  background-color: #f2d483;
+  margin-left: 2%;
+}
+
+details > summary {
+        padding: 1%;
+        background-color: #f7eccd;
+        color: #333;
+        border: 1px #ccc solid;
+        cursor: pointer;
+	border-radius: 10px;
+}
+
+.border_details {
+width: 25%;
+height: 5%;
+}
+

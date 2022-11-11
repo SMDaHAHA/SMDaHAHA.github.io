@@ -1,0 +1,19 @@
+.leftpic {
+    float: left;
+    margin: 50px 50px 50px 50px;
+   }
+   .font-size {
+font-size: 20pt;
+}
+.sharaga {
+font-size: 17pt;
+}
+.link {
+font-size: 17pt;
+}
+.list {
+font-size: 15pt;
+}
+a:link, a:visited {
+   color: #07f;;
+}
