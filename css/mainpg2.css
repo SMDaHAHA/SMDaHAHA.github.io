@@ -1,10 +1,12 @@
 .esc{
   text-decoration: none;
+  color: black;
 }
 .button_esc {
   font-size: 15pt;
   background-color: #f2d483;
-  margin-left: 2%;
+  margin-left: 1%;
+  border-radius: 5pt;
 }
 
 details > summary {
@@ -14,6 +16,7 @@ details > summary {
         border: 1px #ccc solid;
         cursor: pointer;
 	border-radius: 15pt;
+  width:auto;
 }
 
 .border_details {

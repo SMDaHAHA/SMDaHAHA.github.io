@@ -1,19 +1,39 @@
 .leftpic {
     float: left;
     margin: 50px 50px;
+    border-radius: 5%;
+    width: auto;
    }
    .font-size {
-font-size: 20pt;
+   font-size: 18pt;
 }
 .sharaga {
-font-size: 17pt;
+   font-size: 17pt;
 }
 .link {
-font-size: 17pt;
+   font-size: 17pt;
+}
+.aboutme {
+   text-align: center;
+   font-size:16pt;
+   width: auto;
+}
+.inform[open] {
 }
 .list {
-font-size: 15pt;
+   float:top;
+   font-size: 13pt;
+   padding-right:10pt;
+   background-color: #bbf24b;
+   border-radius: 3%;
+   margin: -10pt 0pt 0pt 0pt;
 }
 a:link, a:visited {
    color: #07f;;
+}
+.inform {
+   text-decoration: none;
+   position: absolute;
+   float: left;
+   margin: 35pt;
 }
