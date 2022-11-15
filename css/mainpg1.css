@@ -13,20 +13,15 @@
 .link {
    font-size: 17pt;
 }
-.aboutme {
-   text-align: center;
-   font-size:16pt;
-   width: auto;
-}
-.inform[open] {
-}
+
 .list {
-   float:top;
+
    font-size: 13pt;
    padding-right:10pt;
-   background-color: #bbf24b;
+   background-color: #c2d9ff;
+   border: 1px black dotted;
    border-radius: 3%;
-   margin: -10pt 0pt 0pt 0pt;
+   margin: 0pt 0pt 0pt -35pt;
 }
 a:link, a:visited {
    color: #07f;;
@@ -35,5 +30,5 @@ a:link, a:visited {
    text-decoration: none;
    position: absolute;
    float: left;
-   margin: 30pt 0pt 100pt 45pt;
+   margin: -25pt 0pt 100pt 60pt;
 }
